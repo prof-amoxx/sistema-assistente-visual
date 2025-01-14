@@ -1,2 +1,2 @@
-# sistema-assistente-visual
+# sistema-assistente-virtual Alice
 Último desafio maravilhoso Bairesdev-DIO
